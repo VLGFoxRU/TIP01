@@ -1,6 +1,6 @@
 # ЭФМО-01-25 Буров М.А. ПР1
 
-* README в процессе написания... *
+* README в процессе написания... 
 
 <img width="358" height="90" alt="image" src="https://github.com/user-attachments/assets/02135d6c-bdc0-4184-b5bb-3c09eecd464a" />
 
